@@ -7,11 +7,8 @@ const HeroSection = () => {
     <div className="relative h-[80vh] bg-black flex items-center">
       <div 
         className="absolute inset-0 bg-cover bg-center z-0 opacity-80"
-        style={{ backgroundImage: 'url(https://cdn.poehali.dev/files/10ebb1ac-b761-48e8-baa7-e4b357ede413.jpg)' }}
+        style={{ backgroundImage: 'url(https://cdn.poehali.dev/files/30925aba-243d-470d-a54b-7a2890191239.jpeg)' }}
       />
-      
-      {/* Затемнение для номера авто */}
-      <div className="absolute bottom-20 right-[30%] md:right-[15%] z-10 bg-black w-24 h-8 blur-[2px] opacity-90"></div>
       
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-2xl text-white">
